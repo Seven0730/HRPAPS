@@ -1,0 +1,3122 @@
+[
+  {
+    "year_month": "2025-05",
+    "town": "ANG MO KIO",
+    "resale_price": 609454.5625
+  },
+  {
+    "year_month": "2025-06",
+    "town": "ANG MO KIO",
+    "resale_price": 601940.625
+  },
+  {
+    "year_month": "2025-07",
+    "town": "ANG MO KIO",
+    "resale_price": 600652.5
+  },
+  {
+    "year_month": "2025-08",
+    "town": "ANG MO KIO",
+    "resale_price": 601940.625
+  },
+  {
+    "year_month": "2025-09",
+    "town": "ANG MO KIO",
+    "resale_price": 601940.625
+  },
+  {
+    "year_month": "2025-10",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2025-12",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-01",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-02",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-03",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-04",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-05",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-06",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-07",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-08",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-09",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-10",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-11",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2026-12",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2027-01",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2027-02",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2027-03",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2027-04",
+    "town": "ANG MO KIO",
+    "resale_price": 601141.5625
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BEDOK",
+    "resale_price": 624671.5625
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BEDOK",
+    "resale_price": 622008.5625
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BEDOK",
+    "resale_price": 625899.375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BEDOK",
+    "resale_price": 625899.375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BEDOK",
+    "resale_price": 621282.375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BEDOK",
+    "resale_price": 621742.4375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BEDOK",
+    "resale_price": 625899.375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BEDOK",
+    "resale_price": 621282.375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BEDOK",
+    "resale_price": 621362.5
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BEDOK",
+    "resale_price": 617125.4375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BEDOK",
+    "resale_price": 616745.5
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BISHAN",
+    "resale_price": 922849
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BISHAN",
+    "resale_price": 927914.125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BISHAN",
+    "resale_price": 927914.125
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BISHAN",
+    "resale_price": 927914.125
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BISHAN",
+    "resale_price": 927914.125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BISHAN",
+    "resale_price": 926122.1875
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BISHAN",
+    "resale_price": 926122.1875
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BISHAN",
+    "resale_price": 926122.1875
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BISHAN",
+    "resale_price": 926971.1875
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BISHAN",
+    "resale_price": 928324.875
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BISHAN",
+    "resale_price": 927475.875
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BISHAN",
+    "resale_price": 927475.875
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BISHAN",
+    "resale_price": 927877.75
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BISHAN",
+    "resale_price": 930658.5
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BISHAN",
+    "resale_price": 930899.6875
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BISHAN",
+    "resale_price": 930899.6875
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BISHAN",
+    "resale_price": 930899.6875
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BUKIT BATOK",
+    "resale_price": 613127.4375
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BUKIT BATOK",
+    "resale_price": 611778
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BUKIT BATOK",
+    "resale_price": 611778
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BUKIT BATOK",
+    "resale_price": 611111.5
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BUKIT BATOK",
+    "resale_price": 611491.4375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BUKIT BATOK",
+    "resale_price": 611778
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BUKIT BATOK",
+    "resale_price": 611778
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BUKIT BATOK",
+    "resale_price": 611713.4375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BUKIT BATOK",
+    "resale_price": 611046.9375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BUKIT BATOK",
+    "resale_price": 611111.5
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BUKIT MERAH",
+    "resale_price": 791368
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BUKIT MERAH",
+    "resale_price": 782691.3125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BUKIT MERAH",
+    "resale_price": 794904.875
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BUKIT MERAH",
+    "resale_price": 782855.5625
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BUKIT MERAH",
+    "resale_price": 782855.5625
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BUKIT MERAH",
+    "resale_price": 805197.0625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BUKIT MERAH",
+    "resale_price": 790732.875
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BUKIT MERAH",
+    "resale_price": 782691.3125
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BUKIT MERAH",
+    "resale_price": 797453.375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BUKIT MERAH",
+    "resale_price": 784702.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BUKIT MERAH",
+    "resale_price": 783903.5625
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BUKIT MERAH",
+    "resale_price": 797453.375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BUKIT MERAH",
+    "resale_price": 783490.6875
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BUKIT MERAH",
+    "resale_price": 782691.3125
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BUKIT MERAH",
+    "resale_price": 797453.375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BUKIT MERAH",
+    "resale_price": 782855.5625
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BUKIT MERAH",
+    "resale_price": 782691.3125
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BUKIT MERAH",
+    "resale_price": 805197.0625
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BUKIT MERAH",
+    "resale_price": 790732.875
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BUKIT MERAH",
+    "resale_price": 782691.3125
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BUKIT MERAH",
+    "resale_price": 797453.375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BUKIT MERAH",
+    "resale_price": 784702.9375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BUKIT MERAH",
+    "resale_price": 783903.5625
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BUKIT MERAH",
+    "resale_price": 797453.375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BUKIT PANJANG",
+    "resale_price": 658703.125
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BUKIT PANJANG",
+    "resale_price": 656320.6875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659356.9375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BUKIT PANJANG",
+    "resale_price": 658977
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BUKIT PANJANG",
+    "resale_price": 658977
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BUKIT PANJANG",
+    "resale_price": 658977
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659238.3125
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659618.25
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659238.3125
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659238.3125
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659238.3125
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BUKIT PANJANG",
+    "resale_price": 659238.3125
+  },
+  {
+    "year_month": "2025-05",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1055150.25
+  },
+  {
+    "year_month": "2025-06",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1014923.1875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1029098.5625
+  },
+  {
+    "year_month": "2025-10",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2025-12",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2026-01",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1019988.375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1029098.5625
+  },
+  {
+    "year_month": "2026-10",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2026-11",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2026-12",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1028249.5625
+  },
+  {
+    "year_month": "2027-01",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "BUKIT TIMAH",
+    "resale_price": 1013561.9375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "CENTRAL AREA",
+    "resale_price": 775574.75
+  },
+  {
+    "year_month": "2025-06",
+    "town": "CENTRAL AREA",
+    "resale_price": 781538.75
+  },
+  {
+    "year_month": "2025-07",
+    "town": "CENTRAL AREA",
+    "resale_price": 781538.75
+  },
+  {
+    "year_month": "2025-08",
+    "town": "CENTRAL AREA",
+    "resale_price": 765597
+  },
+  {
+    "year_month": "2025-09",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2025-11",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2025-12",
+    "town": "CENTRAL AREA",
+    "resale_price": 760842.75
+  },
+  {
+    "year_month": "2026-01",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2026-04",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2026-05",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-06",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-07",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-08",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-09",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-10",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-11",
+    "town": "CENTRAL AREA",
+    "resale_price": 759926.8125
+  },
+  {
+    "year_month": "2026-12",
+    "town": "CENTRAL AREA",
+    "resale_price": 760842.75
+  },
+  {
+    "year_month": "2027-01",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2027-02",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2027-03",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2027-04",
+    "town": "CENTRAL AREA",
+    "resale_price": 762785.1875
+  },
+  {
+    "year_month": "2025-05",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2025-06",
+    "town": "CHOA CHU KANG",
+    "resale_price": 614477.5625
+  },
+  {
+    "year_month": "2025-07",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2025-08",
+    "town": "CHOA CHU KANG",
+    "resale_price": 612287.875
+  },
+  {
+    "year_month": "2025-09",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2025-10",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2025-11",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2025-12",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-01",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-06",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-07",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-08",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-09",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-10",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-11",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2026-12",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613465.875
+  },
+  {
+    "year_month": "2027-01",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "CHOA CHU KANG",
+    "resale_price": 613085.9375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "CLEMENTI",
+    "resale_price": 634500.875
+  },
+  {
+    "year_month": "2025-06",
+    "town": "CLEMENTI",
+    "resale_price": 629633.875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "CLEMENTI",
+    "resale_price": 608819.25
+  },
+  {
+    "year_month": "2025-08",
+    "town": "CLEMENTI",
+    "resale_price": 613024.0625
+  },
+  {
+    "year_month": "2025-09",
+    "town": "CLEMENTI",
+    "resale_price": 615309.5
+  },
+  {
+    "year_month": "2025-10",
+    "town": "CLEMENTI",
+    "resale_price": 611980.625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "CLEMENTI",
+    "resale_price": 610692.5
+  },
+  {
+    "year_month": "2025-12",
+    "town": "CLEMENTI",
+    "resale_price": 610692.5
+  },
+  {
+    "year_month": "2026-01",
+    "town": "CLEMENTI",
+    "resale_price": 610692.5
+  },
+  {
+    "year_month": "2026-02",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-04",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-05",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2026-06",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2026-07",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2026-08",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-09",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-10",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2026-11",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2026-12",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2027-01",
+    "town": "CLEMENTI",
+    "resale_price": 610407.0625
+  },
+  {
+    "year_month": "2027-02",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2027-03",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2027-04",
+    "town": "CLEMENTI",
+    "resale_price": 611695.1875
+  },
+  {
+    "year_month": "2025-05",
+    "town": "GEYLANG",
+    "resale_price": 586773.0625
+  },
+  {
+    "year_month": "2025-06",
+    "town": "GEYLANG",
+    "resale_price": 580193.6875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "GEYLANG",
+    "resale_price": 564473.75
+  },
+  {
+    "year_month": "2025-08",
+    "town": "GEYLANG",
+    "resale_price": 561164.4375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "GEYLANG",
+    "resale_price": 549079.125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "GEYLANG",
+    "resale_price": 543741.875
+  },
+  {
+    "year_month": "2025-11",
+    "town": "GEYLANG",
+    "resale_price": 531485.9375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "GEYLANG",
+    "resale_price": 533444.625
+  },
+  {
+    "year_month": "2026-01",
+    "town": "GEYLANG",
+    "resale_price": 532528.6875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "GEYLANG",
+    "resale_price": 531745.9375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2026-09",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2026-10",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2026-11",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2026-12",
+    "town": "GEYLANG",
+    "resale_price": 532376.4375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2027-02",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2027-03",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2027-04",
+    "town": "GEYLANG",
+    "resale_price": 531460.5
+  },
+  {
+    "year_month": "2025-05",
+    "town": "HOUGANG",
+    "resale_price": 599955.9375
+  },
+  {
+    "year_month": "2025-06",
+    "town": "HOUGANG",
+    "resale_price": 606882.875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2025-08",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2025-09",
+    "town": "HOUGANG",
+    "resale_price": 600510.3125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2025-12",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-01",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2026-04",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2026-05",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-06",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-07",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-08",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-09",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-10",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-11",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2026-12",
+    "town": "HOUGANG",
+    "resale_price": 601301.625
+  },
+  {
+    "year_month": "2027-01",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2027-02",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2027-03",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2027-04",
+    "town": "HOUGANG",
+    "resale_price": 600921.6875
+  },
+  {
+    "year_month": "2025-05",
+    "town": "JURONG EAST",
+    "resale_price": 607372.4375
+  },
+  {
+    "year_month": "2025-06",
+    "town": "JURONG EAST",
+    "resale_price": 619157.8125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "JURONG EAST",
+    "resale_price": 619093.375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2025-09",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2025-10",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2025-11",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2025-12",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-01",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2026-02",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2026-03",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2026-04",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2026-05",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-06",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-07",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-08",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-09",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-10",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-11",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2026-12",
+    "town": "JURONG EAST",
+    "resale_price": 618081.6875
+  },
+  {
+    "year_month": "2027-01",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2027-02",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2027-03",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2027-04",
+    "town": "JURONG EAST",
+    "resale_price": 617701.75
+  },
+  {
+    "year_month": "2025-05",
+    "town": "JURONG WEST",
+    "resale_price": 565882.75
+  },
+  {
+    "year_month": "2025-06",
+    "town": "JURONG WEST",
+    "resale_price": 565781.625
+  },
+  {
+    "year_month": "2025-07",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "JURONG WEST",
+    "resale_price": 571141.4375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "JURONG WEST",
+    "resale_price": 570791.3125
+  },
+  {
+    "year_month": "2027-04",
+    "town": "JURONG WEST",
+    "resale_price": 570791.3125
+  },
+  {
+    "year_month": "2025-05",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-06",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-08",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-09",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-11",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2025-12",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2026-01",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2026-02",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2026-03",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2026-04",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 701398.125
+  },
+  {
+    "year_month": "2026-05",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700259.4375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700259.4375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700259.4375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700259.4375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2026-10",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2026-11",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2026-12",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2027-01",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2027-02",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2027-03",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2027-04",
+    "town": "KALLANG/WHAMPOA",
+    "resale_price": 700356.6875
+  },
+  {
+    "year_month": "2025-05",
+    "town": "MARINE PARADE",
+    "resale_price": 685597.375
+  },
+  {
+    "year_month": "2025-06",
+    "town": "MARINE PARADE",
+    "resale_price": 668751.5
+  },
+  {
+    "year_month": "2025-07",
+    "town": "MARINE PARADE",
+    "resale_price": 688627.8125
+  },
+  {
+    "year_month": "2025-08",
+    "town": "MARINE PARADE",
+    "resale_price": 690672.4375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "MARINE PARADE",
+    "resale_price": 689547.5625
+  },
+  {
+    "year_month": "2025-10",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-02",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-03",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-04",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-05",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-06",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-07",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-08",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2026-09",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "MARINE PARADE",
+    "resale_price": 689874.375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2027-02",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2027-03",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2027-04",
+    "town": "MARINE PARADE",
+    "resale_price": 690551.5
+  },
+  {
+    "year_month": "2025-05",
+    "town": "PASIR RIS",
+    "resale_price": 732008.75
+  },
+  {
+    "year_month": "2025-06",
+    "town": "PASIR RIS",
+    "resale_price": 737631
+  },
+  {
+    "year_month": "2025-07",
+    "town": "PASIR RIS",
+    "resale_price": 737631
+  },
+  {
+    "year_month": "2025-08",
+    "town": "PASIR RIS",
+    "resale_price": 737631
+  },
+  {
+    "year_month": "2025-09",
+    "town": "PASIR RIS",
+    "resale_price": 737631
+  },
+  {
+    "year_month": "2025-10",
+    "town": "PASIR RIS",
+    "resale_price": 739979.3125
+  },
+  {
+    "year_month": "2025-11",
+    "town": "PASIR RIS",
+    "resale_price": 739979.3125
+  },
+  {
+    "year_month": "2025-12",
+    "town": "PASIR RIS",
+    "resale_price": 739979.3125
+  },
+  {
+    "year_month": "2026-01",
+    "town": "PASIR RIS",
+    "resale_price": 739986.0625
+  },
+  {
+    "year_month": "2026-02",
+    "town": "PASIR RIS",
+    "resale_price": 740392
+  },
+  {
+    "year_month": "2026-03",
+    "town": "PASIR RIS",
+    "resale_price": 740392
+  },
+  {
+    "year_month": "2026-04",
+    "town": "PASIR RIS",
+    "resale_price": 740392
+  },
+  {
+    "year_month": "2026-05",
+    "town": "PASIR RIS",
+    "resale_price": 740771.9375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "PASIR RIS",
+    "resale_price": 740771.9375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "PASIR RIS",
+    "resale_price": 740771.9375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "PASIR RIS",
+    "resale_price": 740771.9375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "PASIR RIS",
+    "resale_price": 740771.9375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "PASIR RIS",
+    "resale_price": 740385.25
+  },
+  {
+    "year_month": "2026-11",
+    "town": "PASIR RIS",
+    "resale_price": 740385.25
+  },
+  {
+    "year_month": "2026-12",
+    "town": "PASIR RIS",
+    "resale_price": 740385.25
+  },
+  {
+    "year_month": "2027-01",
+    "town": "PASIR RIS",
+    "resale_price": 740392
+  },
+  {
+    "year_month": "2027-02",
+    "town": "PASIR RIS",
+    "resale_price": 740392
+  },
+  {
+    "year_month": "2027-03",
+    "town": "PASIR RIS",
+    "resale_price": 743001.25
+  },
+  {
+    "year_month": "2027-04",
+    "town": "PASIR RIS",
+    "resale_price": 743001.25
+  },
+  {
+    "year_month": "2025-05",
+    "town": "PUNGGOL",
+    "resale_price": 683582.125
+  },
+  {
+    "year_month": "2025-06",
+    "town": "PUNGGOL",
+    "resale_price": 683582.125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "PUNGGOL",
+    "resale_price": 683582.125
+  },
+  {
+    "year_month": "2025-08",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "PUNGGOL",
+    "resale_price": 683908.9375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "QUEENSTOWN",
+    "resale_price": 750890.6875
+  },
+  {
+    "year_month": "2025-06",
+    "town": "QUEENSTOWN",
+    "resale_price": 750104.125
+  },
+  {
+    "year_month": "2025-07",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2025-08",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2025-09",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2025-10",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2025-11",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2025-12",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2026-01",
+    "town": "QUEENSTOWN",
+    "resale_price": 752602.1875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "QUEENSTOWN",
+    "resale_price": 752602.1875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "QUEENSTOWN",
+    "resale_price": 751803.625
+  },
+  {
+    "year_month": "2026-04",
+    "town": "QUEENSTOWN",
+    "resale_price": 751803.625
+  },
+  {
+    "year_month": "2026-05",
+    "town": "QUEENSTOWN",
+    "resale_price": 748945.25
+  },
+  {
+    "year_month": "2026-06",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-07",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-08",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-09",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-10",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-11",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2026-12",
+    "town": "QUEENSTOWN",
+    "resale_price": 748030.25
+  },
+  {
+    "year_month": "2027-01",
+    "town": "QUEENSTOWN",
+    "resale_price": 751687.1875
+  },
+  {
+    "year_month": "2027-02",
+    "town": "QUEENSTOWN",
+    "resale_price": 753506.0625
+  },
+  {
+    "year_month": "2027-03",
+    "town": "QUEENSTOWN",
+    "resale_price": 752707.5
+  },
+  {
+    "year_month": "2027-04",
+    "town": "QUEENSTOWN",
+    "resale_price": 754978.5
+  },
+  {
+    "year_month": "2025-05",
+    "town": "SEMBAWANG",
+    "resale_price": 634458.6875
+  },
+  {
+    "year_month": "2025-06",
+    "town": "SEMBAWANG",
+    "resale_price": 638506.1875
+  },
+  {
+    "year_month": "2025-07",
+    "town": "SEMBAWANG",
+    "resale_price": 638506.1875
+  },
+  {
+    "year_month": "2025-08",
+    "town": "SEMBAWANG",
+    "resale_price": 638506.1875
+  },
+  {
+    "year_month": "2025-09",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "SEMBAWANG",
+    "resale_price": 638429.375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "SEMBAWANG",
+    "resale_price": 638049.4375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-06",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-07",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-08",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-09",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-10",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-11",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2025-12",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-01",
+    "town": "SENGKANG",
+    "resale_price": 665798.6875
+  },
+  {
+    "year_month": "2026-02",
+    "town": "SENGKANG",
+    "resale_price": 665798.6875
+  },
+  {
+    "year_month": "2026-03",
+    "town": "SENGKANG",
+    "resale_price": 665798.6875
+  },
+  {
+    "year_month": "2026-04",
+    "town": "SENGKANG",
+    "resale_price": 665798.6875
+  },
+  {
+    "year_month": "2026-05",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-06",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-07",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-08",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-09",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-10",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-11",
+    "town": "SENGKANG",
+    "resale_price": 666178.625
+  },
+  {
+    "year_month": "2026-12",
+    "town": "SENGKANG",
+    "resale_price": 665879
+  },
+  {
+    "year_month": "2027-01",
+    "town": "SENGKANG",
+    "resale_price": 665499.0625
+  },
+  {
+    "year_month": "2027-02",
+    "town": "SENGKANG",
+    "resale_price": 665499.0625
+  },
+  {
+    "year_month": "2027-03",
+    "town": "SENGKANG",
+    "resale_price": 665499.0625
+  },
+  {
+    "year_month": "2027-04",
+    "town": "SENGKANG",
+    "resale_price": 665499.0625
+  },
+  {
+    "year_month": "2025-05",
+    "town": "SERANGOON",
+    "resale_price": 701639.0625
+  },
+  {
+    "year_month": "2025-06",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2025-07",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2025-08",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2025-09",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2025-10",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2025-11",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2025-12",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2026-01",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-02",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-03",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-04",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-05",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-06",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-07",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2026-08",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2026-09",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2026-10",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2026-11",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2026-12",
+    "town": "SERANGOON",
+    "resale_price": 691092.125
+  },
+  {
+    "year_month": "2027-01",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2027-02",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2027-03",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2027-04",
+    "town": "SERANGOON",
+    "resale_price": 691727.25
+  },
+  {
+    "year_month": "2025-05",
+    "town": "TAMPINES",
+    "resale_price": 709753.6875
+  },
+  {
+    "year_month": "2025-06",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-07",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-08",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-09",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-10",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-11",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2025-12",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-01",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2026-02",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2026-03",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2026-04",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2026-05",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-06",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-07",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-08",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-09",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-10",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-11",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2026-12",
+    "town": "TAMPINES",
+    "resale_price": 720362.5
+  },
+  {
+    "year_month": "2027-01",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2027-02",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2027-03",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2027-04",
+    "town": "TAMPINES",
+    "resale_price": 719982.5625
+  },
+  {
+    "year_month": "2025-05",
+    "town": "TOA PAYOH",
+    "resale_price": 735406.375
+  },
+  {
+    "year_month": "2025-06",
+    "town": "TOA PAYOH",
+    "resale_price": 735406.375
+  },
+  {
+    "year_month": "2025-07",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "TOA PAYOH",
+    "resale_price": 734491.375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "WOODLANDS",
+    "resale_price": 618249
+  },
+  {
+    "year_month": "2025-06",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-07",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-08",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-09",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-10",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-11",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2025-12",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-01",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2026-02",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2026-03",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2026-04",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2026-05",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-06",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-07",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-08",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-09",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-10",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-11",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2026-12",
+    "town": "WOODLANDS",
+    "resale_price": 616556.375
+  },
+  {
+    "year_month": "2027-01",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2027-02",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2027-03",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2027-04",
+    "town": "WOODLANDS",
+    "resale_price": 616176.4375
+  },
+  {
+    "year_month": "2025-05",
+    "town": "YISHUN",
+    "resale_price": 552737.5
+  },
+  {
+    "year_month": "2025-06",
+    "town": "YISHUN",
+    "resale_price": 553803.375
+  },
+  {
+    "year_month": "2025-07",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2025-08",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2025-09",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2025-10",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2025-11",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2025-12",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-01",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-02",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-03",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-04",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-05",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-06",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-07",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-08",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-09",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-10",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-11",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2026-12",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2027-01",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2027-02",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2027-03",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  },
+  {
+    "year_month": "2027-04",
+    "town": "YISHUN",
+    "resale_price": 553702.25
+  }
+]
